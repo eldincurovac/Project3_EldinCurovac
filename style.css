@@ -1,0 +1,232 @@
+/* setting the background 
+color of the main body and 
+setting the bottom margin
+ */
+.body {
+  margin-bottom: 200px;
+  background-color: #f1f5ff;
+}
+
+/* editing the links in the contact me 
+part of the page
+ */
+a:link {
+  color: #dbdcff;
+  background-color: transparenst;
+}
+
+.instalink {
+  color: #dbdcff;
+  background-color: transparent;
+}
+
+.githublink {
+  color: #dbdcff;
+  background-color: transparent;
+}
+
+/* adding color, changing font and shadows in
+the bootstrap containers 
+ */
+.container {
+  background-color: #dbdcff;
+  box-shadow: 5px 10px #8888883a;
+  font-family: "Audiowide", sans-serif;
+}
+
+.col-sm-4 {
+  background-color: #3b3964;
+}
+
+.col-sm {
+  background-color: #3b3964;
+  text-align: center;
+  color: #dbdcff;
+}
+/* setting the picture, and giving
+it outline and style
+ */
+.profilepic {
+  padding: 4px;
+  border-radius: 50%;
+  outline-color: #dbdcff;
+  outline-style: double;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 25%;
+}
+/* changing the font and style of the title
+ */
+.title {
+  font-weight: bold;
+  font-family: "Audiowide", sans-serif;
+  font-size: 50px;
+  color: #090c34;
+  text-transform: uppercase;
+}
+/* changing the font and style of the 
+caption under the title
+ */
+.titlecaption {
+  font-weight: bold;
+  font-family: "Audiowide", sans-serif;
+  font-size: 25px;
+  color: #090c34;
+  letter-spacing: 3px;
+  word-spacing: 7px;
+}
+/* changing the font and style of the
+introduction part
+ */
+.intro {
+  font-weight: bold;
+  font-family: "Audiowide", sans-serif;
+  font-size: 13px;
+  color: #090c34;
+}
+/* resizing the icons in contact me part so 
+they all look the same
+ */
+.emailicon {
+  width: 30px;
+  height: 30px;
+}
+.instagramicon {
+  width: 30px;
+  height: 30px;
+}
+
+.githubicon {
+  width: 30px;
+  height: 30px;
+}
+
+.navbaricon {
+  width: 30px;
+  height: 30px;
+}
+
+.topicon {
+  width: 50px;
+  height: 50px;
+}
+
+/* changing the font and style of the
+contact me part
+ */
+.contact {
+  font-family: "Audiowide", sans-serif;
+  padding: 4px;
+  font-weight: normal;
+  color: #ffffff79;
+  letter-spacing: -1px;
+  float: left;
+  width: 100%;
+  padding: 15px;
+  text-align: auto;
+}
+/* changing the font and style of the
+introduction text
+ */
+.profiletext {
+  font-family: "Audiowide", sans-serif;
+  padding: 4px;
+  font-weight: normal;
+  color: #090c34;
+  letter-spacing: -1px;
+  float: left;
+  width: 100%;
+  padding: 15px;
+  text-align: auto;
+}
+/* changing the font and style of the
+working experience text
+ */
+.work {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  letter-spacing: -1px;
+  color: #ffffff79;
+  text-align: left;
+}
+/* changing the font and style of the
+contact me part
+ */
+.contactme {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  letter-spacing: -1px;
+  color: #ffffff79;
+  text-align: left;
+}
+/* changing the font and style of the
+education part
+ */
+.education {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  letter-spacing: -1px;
+  color: #ffffff79;
+  text-align: left;
+}
+/* changing the font and style of the
+skills part
+ */
+.skills {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  letter-spacing: -1px;
+  color: #090c34;
+  text-align: left;
+}
+/* changing the style of progress bars from bootstrap
+changing the font and color
+ */
+.progress {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  color: #090c34;
+}
+
+.container-fluid {
+  color: #090c34;
+}
+
+.col {
+  color: #090c34;
+}
+
+/* changing the style and fonts of navbar 
+ */
+.navbar.navbar-default {
+  color: #090c34;
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  background-color: #ffffff79;
+  text-align: center;
+}
+
+.date {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  color: #090c34;
+  text-align: center;
+}
+
+.softSkills {
+  font-family: "Audiowide", sans-serif;
+  font-weight: bold;
+  color: #090c34;
+  text-align: center;
+}
+
+.id01 {
+  color: #090c34;
+}
